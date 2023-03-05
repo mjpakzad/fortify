@@ -70,7 +70,7 @@ return [
     |
     | Here you may specify which prefix Fortify will assign to all the routes
     | that it registers with the application. If necessary, you may change
-    | subdomain under which all of the Fortify routes will be available.
+    | subdomain under which all the Fortify routes will be available.
     |
     */
 
@@ -85,7 +85,7 @@ return [
     |
     | Here you may specify which middleware Fortify will assign to the routes
     | that it registers with the application. If necessary, you may change
-    | these middleware but typically this provided default is preferred.
+    | this middleware but typically this provided default is preferred.
     |
     */
 
@@ -127,7 +127,7 @@ return [
     |
     | Some of the Fortify features are optional. You may disable the features
     | by removing them from this array. You're free to only remove some of
-    | these features or you can even remove all of these if you need to.
+    | these features, or you can even remove all of these if you need to.
     |
     */
 
